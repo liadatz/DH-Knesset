@@ -1,6 +1,6 @@
 <div align="center">
 
-# Analysis of the representation of women in the Knesset
+# Analysis of material representation of female Knesset members
 ##### By Omer Binyamin  & Liad Atsmon
 </div>
 
