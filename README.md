@@ -1,7 +1,7 @@
 <div align="center">
 
-# Analysis of material representation of female Knesset members
-##### By Omer Binyamin  & Liad Atsmon
+# ניתוח ייצוג מהותי של חברות כנסת
+###### נכתב ע"י עומר בנימין וליעד עצמון
 </div>
 
 <div dir="rtl">
