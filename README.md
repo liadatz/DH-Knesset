@@ -1,8 +1,9 @@
-<center>
+<div align="center">
 
 # Analysis of the representation of women in the Knesset
 ##### By Omer Binyamin  & Liad Atsmon
-</center>
+</div>
+
 <div dir="rtl">
 
 ## מטרת הפרויקט
