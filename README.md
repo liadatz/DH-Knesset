@@ -1,7 +1,5 @@
-<div align="center">
 # ניתוח ייצוג מהותי של חברות כנסת
   ##### נכתב ע"י עומר בנימין וליעד עצמון
-</div>
 
 ## Requirements
 In Order The application was built with:
