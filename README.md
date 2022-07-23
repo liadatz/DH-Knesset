@@ -27,3 +27,7 @@ Python 3.9 is required
 (9) Use plot_data_sum.py to plot statistics
 (10) run bill2path.py to genarate csv file for close reading
 ```
+
+## Output
+-A plot is created for each Knesset (currently for 17,18,20) for data examination
+-K<knessetNumber>_<gender>_topic2path is created for close reading 
