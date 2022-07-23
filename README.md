@@ -1,4 +1,4 @@
-<div align="center"  font-size=40px>
+<div align="center">
   ניתוח ייצוג מהותי של חברות כנסת
 
 </div>
