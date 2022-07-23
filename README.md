@@ -30,4 +30,4 @@ Python 3.9 is required
 
 ## Output
 - A plot is created for each Knesset (currently for 17,18,20) for data examination
-- K<knessetNumber>_<gender>_topic2path is created for close reading 
+- KknessetNumber_gender_topic2path is created for close reading 
