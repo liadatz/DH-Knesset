@@ -4,7 +4,7 @@
 </div>
 
 ## Requirements
-In Order The application was built with:
+In order to run this project you will need:
 - [Python](https://www.python.org/) as programming language
 - [LibreOffice](https://www.libreoffice.org/) for doc to txt convertions
 - [LemLDA](https://www.cs.bgu.ac.il/~elhadad/nlpproj/LDAforHebrew.html) for lemmatizing
